@@ -45,4 +45,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Obstacle: {fileID: 1662584973375887002, guid: ed5b6e139639a11419909b026eb40da8,
     type: 3}
+  Score: {fileID: 5903419549514332527, guid: 4adba35cac91b7d44b33f874af28fc56, type: 3}
   SpawnInterval: 1
